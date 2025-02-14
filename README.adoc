@@ -11,11 +11,13 @@ administração da biblioteca, garantindo uma gestão eficiente e eficaz.
 
 ## Recursos
 
-** **Cadastro e gerenciamento de livros** com informações detalhadas
+** 📒**Cadastro e gerenciamento de livros** com informações detalhadas
 (título, autor, ISBN, etc.).
-** **Criação e modificação de empréstimos** de livros, com opções de data
+** 🧑‍💼**Criação e modificação de empréstimos** de livros, com opções de data
 de empréstimo e devolução.
-** **Visualização da disponibilidade dos livros** em tempo real.
-** **Geração de relatórios** de empréstimos, devoluções e multas.
-** **Notificação de usuários** sobre empréstimos e devoluções.
-** **Sistema de login e autenticação** para administradores e usuários.
+** 👀**Visualização da disponibilidade dos livros** em tempo real.
+** 📊**Geração de relatórios** de empréstimos, devoluções e multas.
+** 🔔**Notificação de usuários** sobre empréstimos e devoluções.
+** 🖥️**Sistema de login e autenticação** para administradores e usuários.
+
+## Tecnologias Utilizadas
