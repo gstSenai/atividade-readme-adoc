@@ -70,3 +70,36 @@ migrações para criar as tabelas necessárias:
   ng serve
   
 . **Acesse a Aplicação** - Abra o navegador e acesse a aplicação na URL: http://localhost:4200.
+
+## Documentação da API
+
+A API do Sistema de Gerenciamento de Biblioteca foi documentada
+utilizando **Swagger**, permitindo uma visualização interativa e detalhada de
+todos os endpoints disponíveis. Abaixo estão alguns dos endpoints principais:
+
+* **GET /api/books**: Retorna todos os livros disponíveis.
+* **POST /api/loans**: Cria um novo empréstimo de livro.
+* **GET /api/loans/{id}**: Obtém os detalhes de um empréstimo específico.
+* **PUT /api/loans/{id}**: Atualiza informações de um empréstimo.
+* **DELETE /api/loans/{id}**: Cancela um empréstimo.
+
+Para acessar a documentação completa da API no Swagger, inicie o servidor backend e acesse:
+
+  http://localhost:8080/swagger-ui.html
+
+## Contribuindo
+
+. Faça um fork do repositório.
+. Crie uma nova branch
+
+  git checkout -b feature-nome-da-feature
+
+. Faça as alterações e commit
+
+  git commit -am 'Adiciona nova feature'
+
+. Envie para o repositório original
+
+  git push origin feature-nome-da-feature
+
+. Abra um pull request descrevendo as mudanças feitas.
