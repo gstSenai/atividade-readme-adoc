@@ -8,3 +8,14 @@ biblioteca. Através da aplicação, é possível gerenciar empréstimos de livr
 disponibilidade de exemplares, cadastro de usuários e gerar relatórios de
 atividades. O sistema visa melhorar a experiência do usuário e otimizar a
 administração da biblioteca, garantindo uma gestão eficiente e eficaz.
+
+## Recursos
+
+ ** Cadastro e gerenciamento de livros ** com informações detalhadas
+(título, autor, ISBN, etc.).
+Criação e modificação de empréstimos de livros, com opções de data
+de empréstimo e devolução.
+Visualização da disponibilidade dos livros em tempo real.
+Geração de relatórios de empréstimos, devoluções e multas.
+Notificação de usuários sobre empréstimos e devoluções.
+Sistema de login e autenticação para administradores e usuários.
