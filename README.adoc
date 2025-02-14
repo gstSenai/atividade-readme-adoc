@@ -45,25 +45,20 @@ de empréstimo e devolução.
 Navegue até o diretório do frontend e instale as dependências com npm:
 
   cd sistema-biblioteca/frontend
-  
   npm install
   
 . **Instale as Dependências do Backend** - Navegue até o diretório do backend e instale as dependências com
 Maven:
 
-  cd sistema-biblioteca/backend
-  
+  cd sistema-biblioteca/backend 
   mvn install
   
 . **Configuração do Banco de Dados** - Crie um banco de dados MySQL e configure as credenciais no
 arquivo application.properties do backend. Em seguida, execute as
 migrações para criar as tabelas necessárias:
 
-  
   spring.datasource.url=jdbc:mysql://localhost:3306/biblioteca
-
   spring.datasource.username=seu_usuario
-  
   spring.datasource.password=sua_senha
   
 . **Inicie o Servidor Backend** - Inicie o servidor do backend com o comando:
@@ -71,9 +66,7 @@ migrações para criar as tabelas necessárias:
   mvn spring-boot:run
   
 . **Inicie o Servidor Frontend** - Inicie o servidor do frontend com o comando:
-
   
   ng serve
   
-
 . **Acesse a Aplicação** - Abra o navegador e acesse a aplicação na URL: http://localhost:4200.
