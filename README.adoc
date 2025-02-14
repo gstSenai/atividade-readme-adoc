@@ -23,7 +23,8 @@ de empréstimo e devolução.
 ## Tecnologias Utilizadas
 
 . 🅰️ **Frontend**
-   **Angular**: Framework utilizado para o desenvolvimento da interface de usuário, permitindo uma aplicação interativa e responsiva.
+   
+**Angular**: Framework utilizado para o desenvolvimento da interface de usuário, permitindo uma aplicação interativa e responsiva.
 
 . 🍃 **Backend**
    **Spring Boot (Java)**: Framework utilizado para o desenvolvimento da API, que gerencia os empréstimos, os livros e os usuários.
@@ -103,3 +104,10 @@ Para acessar a documentação completa da API no Swagger, inicie o servidor back
   git push origin feature-nome-da-feature
 
 . Abra um pull request descrevendo as mudanças feitas.
+
+## Licença
+
+Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para
+mais detalhes.
+
+
