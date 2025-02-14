@@ -22,14 +22,14 @@ de empréstimo e devolução.
 
 ## Tecnologias Utilizadas
 
-. image:https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/angular.svg[Angular,30,30] **Frontend**
+. 🅰️ **Frontend**
    **Angular**: Framework utilizado para o desenvolvimento da interface de usuário, permitindo uma aplicação interativa e responsiva.
 
-. image:https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/spring.svg[Spring Boot,30,30] **Backend**
+. 🍃 **Backend**
    **Spring Boot (Java)**: Framework utilizado para o desenvolvimento da API, que gerencia os empréstimos, os livros e os usuários.
 
-. image:https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mysql.svg[MySQL,30,30] **Banco de Dados**
+. 🗄️ **Banco de Dados**
    **MySQL**: Banco de dados relacional utilizado para armazenar informações sobre empréstimos, usuários e livros.
 
-. image:https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/jsonwebtokens.svg[JWT,30,30] **Autenticação**
+. 🔐 **Autenticação**
    **JWT (JSON Web Tokens)**: Utilizado para garantir a segurança no processo de autenticação e autorização de usuários.
