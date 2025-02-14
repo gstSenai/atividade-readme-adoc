@@ -1,3 +1,10 @@
 # Sistema de Gerenciamento de Biblioteca
 
 ## Sobre o Projeto
+
+O Sistema de Gerenciamento de Biblioteca foi desenvolvido para facilitar o
+processo de empréstimo, devolução e gerenciamento de livros em uma
+biblioteca. Através da aplicação, é possível gerenciar empréstimos de livros,
+disponibilidade de exemplares, cadastro de usuários e gerar relatórios de
+atividades. O sistema visa melhorar a experiência do usuário e otimizar a
+administração da biblioteca, garantindo uma gestão eficiente e eficaz.
