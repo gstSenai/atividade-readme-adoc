@@ -43,17 +43,16 @@ de empréstimo e devolução.
 
 . **Instale as Dependências do Frontend** - 
 Navegue até o diretório do frontend e instale as dependências com npm:
-
-
+----
 cd sistema-biblioteca/frontend
-
+----
 npm install
 
 . **Instale as Dependências do Backend** - Navegue até o diretório do backend e instale as dependências com
 Maven:
-
+----
 cd sistema-biblioteca/backend
-
+----
 mvn install
 
 . **Configuração do Banco de Dados** - Crie um banco de dados MySQL e configure as credenciais no
