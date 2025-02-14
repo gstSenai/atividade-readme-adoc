@@ -22,19 +22,19 @@ de empréstimo e devolução.
 
 ## Tecnologias Utilizadas
 
-. **Frontend**
+. **Frontend**.
       **Angular**: Framework utilizado para o desenvolvimento da
 interface de usuário, permitindo uma aplicação interativa e
 responsiva.
 
-. **Backend**
+. **Backend**.
       **Spring Boot (Java)**: Framework utilizado para o desenvolvimento
 da API, que gerencia os empréstimos, os livros e os usuários.
 
-. **Banco de Dados**
+. **Banco de Dados**.
       **MySQL**: Banco de dados relacional utilizado para armazenar
 informações sobre empréstimos, usuários e livros.
 
-. **Autenticação**
+. **Autenticação**.
       **JWT (JSON Web Tokens)**: Utilizado para garantir a segurança
 no processo de autenticação e autorização de usuários.
