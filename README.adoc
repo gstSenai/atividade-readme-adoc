@@ -77,11 +77,11 @@ A API do Sistema de Gerenciamento de Biblioteca foi documentada
 utilizando **Swagger**, permitindo uma visualização interativa e detalhada de
 todos os endpoints disponíveis. Abaixo estão alguns dos endpoints principais:
 
-* **GET /api/books**: Retorna todos os livros disponíveis.
-* **POST /api/loans**: Cria um novo empréstimo de livro.
-* **GET /api/loans/{id}**: Obtém os detalhes de um empréstimo específico.
-* **PUT /api/loans/{id}**: Atualiza informações de um empréstimo.
-* **DELETE /api/loans/{id}**: Cancela um empréstimo.
+* 🌐 **GET /api/books**: Retorna todos os livros disponíveis.
+* ➕ **POST /api/loans**: Cria um novo empréstimo de livro.
+* 🔍 **GET /api/loans/{id}**: Obtém os detalhes de um empréstimo específico.
+* ✏️ **PUT /api/loans/{id}**: Atualiza informações de um empréstimo.
+* 🗑️ **DELETE /api/loans/{id}**: Cancela um empréstimo.
 
 Para acessar a documentação completa da API no Swagger, inicie o servidor backend e acesse:
 
